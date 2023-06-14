@@ -1,0 +1,15 @@
+C:\Users\Murtazo\DotNet Class\bin\Debug\net7.0\DotNet Class.exe
+C:\Users\Murtazo\DotNet Class\bin\Debug\net7.0\DotNet Class.deps.json
+C:\Users\Murtazo\DotNet Class\bin\Debug\net7.0\DotNet Class.runtimeconfig.json
+C:\Users\Murtazo\DotNet Class\bin\Debug\net7.0\DotNet Class.dll
+C:\Users\Murtazo\DotNet Class\bin\Debug\net7.0\DotNet Class.pdb
+C:\Users\Murtazo\DotNet Class\obj\Debug\net7.0\DotNet Class.csproj.AssemblyReference.cache
+C:\Users\Murtazo\DotNet Class\obj\Debug\net7.0\DotNet Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murtazo\DotNet Class\obj\Debug\net7.0\DotNet Class.AssemblyInfoInputs.cache
+C:\Users\Murtazo\DotNet Class\obj\Debug\net7.0\DotNet Class.AssemblyInfo.cs
+C:\Users\Murtazo\DotNet Class\obj\Debug\net7.0\DotNet Class.csproj.CoreCompileInputs.cache
+C:\Users\Murtazo\DotNet Class\obj\Debug\net7.0\DotNet Class.dll
+C:\Users\Murtazo\DotNet Class\obj\Debug\net7.0\refint\DotNet Class.dll
+C:\Users\Murtazo\DotNet Class\obj\Debug\net7.0\DotNet Class.pdb
+C:\Users\Murtazo\DotNet Class\obj\Debug\net7.0\DotNet Class.genruntimeconfig.cache
+C:\Users\Murtazo\DotNet Class\obj\Debug\net7.0\ref\DotNet Class.dll
